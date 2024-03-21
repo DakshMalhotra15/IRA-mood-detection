@@ -15,7 +15,7 @@ const Stats = () => {
                                 <BiHappyAlt />
                             </div>
                             <h2 className="title">99+</h2>
-                            <p className="text-secondary">Happy Customers</p>
+                            <p className="text-secondary">Customer testamonials</p>
                         </div>
                     </div>
                     <div className="p-4 box w-25">
@@ -33,7 +33,7 @@ const Stats = () => {
                                 <MdPlace />
                             </div>
                             <h2 className="title">50+</h2>
-                            <p className="text-secondary">Places Across World</p>
+                            <p className="text-secondary">Locations Across World</p>
                         </div>
                     </div>
                     <div className="p-4 box w-25">

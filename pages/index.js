@@ -15,7 +15,7 @@ const Index = ({ siteName, color }) => {
 
       <section className="container-fluid main mx-auto d-flex justify-content-center align-items-center">
         <div className="text text-center">
-          <h1 className="display-2 fw-bold bg-ira px-4">IRA - Your Virtual Friend!</h1>
+          <h1 className="display-2 fw-bold bg-ira px-4">IRA - Inteligent Robot Assistance!</h1>
         </div>
       </section>
 

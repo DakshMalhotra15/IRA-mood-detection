@@ -11,7 +11,7 @@ const Footer = ({ siteName }) => {
             <footer>
                 <div className="container p-3 mx-auto d-flex align-items-center justify-content-center">
                     <div className='copyright'>
-                        <p className="m-3 text-secondary">Copyright © {copyright(2022)}, All Rights Reserved by <span className='name'>{siteName}</span>.
+                        <p className="m-3 text-secondary">Copyright © {copyright(2024)}, All Rights Reserved by <span className='name'>{siteName}</span>.
                         </p>
                     </div>
                 </div>

@@ -79,8 +79,8 @@ const Contact = ({ color }) => {
             <section className="body-font" id="contact">
                 <div className="container px-2 py-5 mx-auto d-flex flex-wrap align-items-center justify-content-between">
                     <div className="details">
-                        <h1 className="title">Need Help ?</h1>
-                        <p className="mt-4">Email Address : <a href='mailto:theritiktiwari@gmail.com'>theritiktiwari@gmail.com</a></p>
+                        <h1 className="title">Need Help ?, Contact us</h1>
+                        <p className="mt-4">Email Address : <a href='mailto:malhotradaksh476@gmail.com'>malhotradaksh476@gmail.com</a></p>
                         <p className="mt-4">Address : <span>Kelambakkam - Vandalur Rd, Rajan Nagar, <br /> Chennai, Tamil Nadu, 600-127</span></p>
                     </div>
                     <form onSubmit={handleSubmit} method="POST" className='p-5'>

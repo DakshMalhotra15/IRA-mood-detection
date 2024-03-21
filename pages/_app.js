@@ -43,7 +43,7 @@ function MyApp({ Component, pageProps }) {
   return <>
     <Head>
       <title>HOME | {siteName}</title>
-      <meta name="description" content="This is a portal for Mood detection, by which a person can detect his mood." />
+      <meta name="description" content="A portal designed to help the user better identify their mood and emotions" />
       <link rel="icon" href="/favicon.ico" />
       <link rel="apple-touch-icon" href="/favicon.ico" />
       <link rel="shortcut icon" href="/favicon.ico" />
